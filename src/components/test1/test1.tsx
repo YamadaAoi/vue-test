@@ -11,7 +11,6 @@ export default defineComponent({
   },
   methods: {
     plus() {
-      //
       this.count++;
     }
   },
